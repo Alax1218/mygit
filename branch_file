@@ -1,0 +1,8 @@
+Each task has a sepreate branch.
+After done with code, merge other branch with master branch
+This concept useful for parllel development
+we can create any number of branches
+Changes are personal to that particular branch
+Default branch is Master branch
+File created in workspace will be visible in any of the branch workspace untill we commit, once we commit that file belongs to that particular branch
+When created new branch, date aof existing branch is copied to new branch only once.
