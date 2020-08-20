@@ -1,0 +1,1 @@
+in order to push from another branch use cmd git push origin master:branch2
