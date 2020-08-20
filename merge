@@ -1,0 +1,3 @@
+We can not merge branches of different repository.
+We ise pulling mechanism to merge branches.
+With the help of pulling mechanism, only updated data will merge in master branch, it's like copy and paste. once the data is merge with master branch, other branch date still exist.
