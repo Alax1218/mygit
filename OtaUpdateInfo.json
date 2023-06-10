@@ -1,0 +1,13 @@
+{
+	"ApkVersion":"1.0.93",
+	"ApkPath":"https://d102pt.guardhat.net/ota/atlas/apk/Atlas-1.0.93.apk",
+	"ApkDownloadOnCellular":true,
+	"RebootOnApkUpdate": true,
+	"BspVersion":"",
+	"BspPath":"",
+	"BspDownloadOnCellular": false,
+	"ConfigVersion": "2.2.0",
+	"ConfigPath":"https://d102pt.guardhat.net/ota/atlas/config/ConfigurationData.json",
+	"ConfigDownloadOnCellular": true,
+	"RebootOnConfigUpdate": false
+}
